@@ -1,3 +1,3 @@
 # csd
 
-Some projects from under-grads subjects mainly in C, C++, Java
+Some projects from undergrad courses mainly in C, C++, Java
